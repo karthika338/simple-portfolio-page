@@ -1,0 +1,91 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
+}
+
+.container {
+    padding: 50px;
+}
+
+.section-one {
+    background-color: black;
+    color: red;
+    padding: 20px;
+    margin: 10px;
+}
+
+.section-one__contact {
+    background-color: rgb(172, 189, 21);
+    color: rgb(30, 31, 31);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.section-one__role {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.section-one__name {
+    margin: 5px;
+}
+
+.section-two,
+.section-three,
+.section-four {
+    margin-top: 20px;
+
+}
+.section-two{
+    margin-left: 10px;
+}
+.section-two__desc,
+.section-three__desc,
+.section-four__desc {
+    padding-top: 20px;
+
+}
+
+
+.section-three{
+    background-color: #07054d;
+    color: whitesmoke;
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    height: 170px;
+    vertical-align: top;
+}
+.section-four{
+    background-color: #fe7517;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    height: 170px;
+    vertical-align: top;
+    font-size: 10px;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+.section-five__desc{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,76 @@
+*{
+    padding-left: 10px;
+    margin: 0px;
+    padding-top: 10px;
+}
+.container{
+    padding: 20px;
+}
+form{
+    border: 1px solid black;
+    width: 400px;
+    text-align: center;
+}
+.section-one{
+    background-color: black;
+    color: red;
+    padding: 10px;
+}
+.section-one__name,.section-one__role{
+    padding-top: 10px;
+}
+.section-one__contact{
+    padding: 5px;
+    background-color: green;
+    color: yellow;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+}
+.section-two{
+    margin: 15px;
+}
+.section-two__input,.section-two__textarea,.section-two__submit,.section-two__select{
+    margin-top: 10px;
+}
+.section-two__input{
+    border: none;
+    border-bottom: solid 1px black;
+    padding: 10px;
+}
+.section-two__textarea{
+     border: none;
+    border: solid 1px black;
+    padding: 10px;
+}
+.section-two__submit{
+    border: none;
+    background-color: rgb(215, 46, 3);
+    color: black;
+    padding: 4px;
+    margin-right: 130px;
+    font-weight: bold;
+}
+.section-two__select{
+    border: none;
+    border: solid 1px black;
+}
+select:hover{
+    outline: solid green 5px;
+    border: none;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.section-five__title{
+   margin-top: 5px;
+}
+.section-five__desc{
+    text-decoration: none;
+    color: white;
+}
+
+
