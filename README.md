@@ -30,7 +30,7 @@ HOW TO VIEW
 
 Clone this repository:
 
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://karthika338.github.io/simple-portfolio-page/
 
 
 Open index.html in your browser to view the site.
